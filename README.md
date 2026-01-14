@@ -133,7 +133,8 @@ Focus on analytics, business metrics, and decision-making.
 - **LinkedIn:** https://www.linkedin.com/in/rahil-rahmathulla-524231348  
 - **GitHub:**  
   - https://github.com/rahilrahma/projects-excel-BI.git  
-  - https://github.com/rahilrahma/python-project.git  
+  - https://github.com/rahilrahma/python-project.git
+  - https://github.com/rahilrahma/project-powerbi.git 
 
 ---
 
