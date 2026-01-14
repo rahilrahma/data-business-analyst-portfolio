@@ -57,13 +57,13 @@ Provide investors and analysts with a clear view of stock trends, risk indicator
 
 
 #### Company-Level Analysis
-![Company Dashboard](screenshots/Companyanalysis.png)
+![Company Dashboard](screenshots/Company_dashboard.png)
 
 #### Market-Level Analysis
-![Market Dashboard](screenshots/Marketanalysis.png)
+![Market Dashboard](screenshots/Market_dashboard.png)
 
 #### Candlestick Chart
-![Candlestick Chart](screenshots/Candlestickchart.png)
+![Candlestick Chart](screenshots/Candlestick_dashboard.png)
 
 ---
 
