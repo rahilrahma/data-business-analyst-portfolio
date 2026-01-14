@@ -47,6 +47,7 @@ Provide investors and analysts with a clear view of stock trends, risk indicator
 
 **Key Work:**  
 - Defined financial KPIs such as **Market Capitalization, PE Ratio, Volatility, and YTD Return**
+- Webscraped data from websites for real time stock data
 - Built time-series and comparative visuals for trend analysis
 - Applied conditional formatting to highlight performance signals
 
