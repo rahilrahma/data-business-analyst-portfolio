@@ -53,7 +53,17 @@ Provide investors and analysts with a clear view of stock trends, risk indicator
 
 **Business Impact:**  
 - Simplified complex financial data into actionable insights  
-- Enabled quick comparison across stocks and time periods  
+- Enabled quick comparison across stocks and time periods
+
+
+#### Company-Level Analysis
+![Company Dashboard](screenshots/company_analysis.png)
+
+#### Market-Level Analysis
+![Market Dashboard](screenshots/market_analysis.png)
+
+#### Candlestick Chart
+![Candlestick Chart](screenshots/candlestick_chart.png)
 
 ---
 
