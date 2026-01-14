@@ -55,6 +55,7 @@ Provide investors and analysts with a clear view of stock trends, risk indicator
 - Simplified complex financial data into actionable insights  
 - Enabled quick comparison across stocks and time periods
 
+### Dashboard
 
 #### Company-Level Analysis
 ![Company Dashboard](screenshots/Company_dashboard.png)
@@ -78,7 +79,16 @@ Evaluate sales performance and profitability to support retail decision-making.
 
 **Business Impact:**  
 - Identified high-revenue products and categories  
-- Highlighted seasonal patterns affecting sales  
+- Highlighted seasonal patterns affecting sales
+
+### Dashboard
+
+![excel Dashboard](screenshots/blinkit_excel_Dashboard.png)
+
+![modeling](screenshots/data_modeling_excel.png)
+
+![excel power query](screenshots/power_query_excel.png)
+
 
 ---
 
