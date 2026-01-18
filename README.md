@@ -152,12 +152,12 @@ Monitor organizational performance against defined targets.
 
 ## 🎓 Education
 **Bachelor of Business Administration (B.B.A)**  
-Focus on analytics, business metrics, and decision-making.
-*CGPA : 8.125*
+-Focus on analytics, business metrics, and decision-making.
+-*CGPA : 8.125*
 
 **Commerce with Computer Application**
-Focus on Financial and computer knowledge
-*Percentage : 95.5%*
+-Focus on Financial and computer knowledge
+-*Percentage : 95.5%*
 
 ---
 
