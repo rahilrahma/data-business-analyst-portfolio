@@ -104,7 +104,35 @@ Use predictive modeling to understand patterns in social data and forecast outco
 
 **Business Impact:**  
 - Demonstrated practical use of ML for real-world decision support  
-- Translated model outputs into interpretable insights  
+- Translated model outputs into interpretable insights
+  
+---
+
+### ⭐ Hotel Review Analytics Dashboard (Tableau) 
+
+**Business Goal:**
+Enable hospitality stakeholders to evaluate customer satisfaction by analyzing hotel reviews across multiple quality dimensions and demographics.
+
+**Key Work:**
+
+-Designed interactive dashboards to analyze Overall Rating, Cleanliness, Comfort, Facilities, Staff, Location, and Value for Money
+-Built a dynamic metric selector (parameter) to switch between different review KPIs
+-Created time-series trend analysis to track rating consistency over months and years
+-Developed geographical analysis using maps to compare average ratings by country
+-Implemented advanced filters for traveler type, age group, hotel, city, and date
+-Modeled and integrated multiple datasets (Hotels, Users, Reviews) in Tableau
+
+**Business Impact:**
+
+-Helped identify top-performing and underperforming hotels based on customer feedback
+-Revealed how traveler type and demographics influence hotel ratings
+-Enabled data-driven decisions to improve service quality and customer experience
+
+### Dashboard
+
+![Tableau dashboard](sreenshots/Tableau_dashboard.png)
+
+![Tableau model](screenshots/Tableau_model.png)
 
 ---
 
@@ -125,6 +153,11 @@ Monitor organizational performance against defined targets.
 ## 🎓 Education
 **Bachelor of Business Administration (B.B.A)**  
 Focus on analytics, business metrics, and decision-making.
+*CGPA : 8.125*
+
+**Commerce with Computer Application**
+Focus on Financial and computer knowledge
+*Percentage : 95.5%*
 
 ---
 
@@ -132,9 +165,10 @@ Focus on analytics, business metrics, and decision-making.
 - **Email:** rahilrahma2004@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rahil-rahmathulla-524231348  
 - **GitHub:**  
-  - https://github.com/rahilrahma/projects-excel-BI.git  
-  - https://github.com/rahilrahma/python-project.git
-  - https://github.com/rahilrahma/project-powerbi.git 
+  - https://github.com/rahilrahma/projects-excel-BI.git (excel)  
+  - https://github.com/rahilrahma/python-project.git (python)
+  - https://github.com/rahilrahma/project-powerbi.git (power bi)
+  - https://github.com/rahilrahma/Tableau-project.git (tableau)
 
 ---
 
