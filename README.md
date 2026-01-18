@@ -130,7 +130,7 @@ Enable hospitality stakeholders to evaluate customer satisfaction by analyzing h
 
 ### Dashboard
 
-![Tableau dashboard](sreenshots/Tableau_dashboard.png)
+![Tableau dashboard](screenshots/Tableau_dashboard.png)
 
 ![Tableau model](screenshots/Tableau_model.png)
 
