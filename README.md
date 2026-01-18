@@ -115,18 +115,18 @@ Enable hospitality stakeholders to evaluate customer satisfaction by analyzing h
 
 **Key Work:**
 
--Designed interactive dashboards to analyze Overall Rating, Cleanliness, Comfort, Facilities, Staff, Location, and Value for Money
--Built a dynamic metric selector (parameter) to switch between different review KPIs
--Created time-series trend analysis to track rating consistency over months and years
--Developed geographical analysis using maps to compare average ratings by country
--Implemented advanced filters for traveler type, age group, hotel, city, and date
--Modeled and integrated multiple datasets (Hotels, Users, Reviews) in Tableau
+- Designed interactive dashboards to analyze Overall Rating, Cleanliness, Comfort, Facilities, Staff, Location, and Value for Money
+- Built a dynamic metric selector (parameter) to switch between different review KPIs
+- Created time-series trend analysis to track rating consistency over months and years
+- Developed geographical analysis using maps to compare average ratings by country
+- Implemented advanced filters for traveler type, age group, hotel, city, and date
+- Modeled and integrated multiple datasets (Hotels, Users, Reviews) in Tableau
 
 **Business Impact:**
 
--Helped identify top-performing and underperforming hotels based on customer feedback
--Revealed how traveler type and demographics influence hotel ratings
--Enabled data-driven decisions to improve service quality and customer experience
+- Helped identify top-performing and underperforming hotels based on customer feedback
+- Revealed how traveler type and demographics influence hotel ratings
+- Enabled data-driven decisions to improve service quality and customer experience
 
 ### Dashboard
 
@@ -152,12 +152,12 @@ Monitor organizational performance against defined targets.
 
 ## 🎓 Education
 **Bachelor of Business Administration (B.B.A)**  
--Focus on analytics, business metrics, and decision-making.
--*CGPA : 8.125*
+- Focus on analytics, business metrics, and decision-making.
+- *CGPA : 8.125*
 
 **Commerce with Computer Application**
--Focus on Financial and computer knowledge
--*Percentage : 95.5%*
+- Focus on Financial and computer knowledge
+- *Percentage : 95.5%*
 
 ---
 
